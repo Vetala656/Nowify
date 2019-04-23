@@ -17,3 +17,7 @@ A simple app to display visuals of your current Spotify track. Designed to be us
 ## Notes
 
 I originally built this for personal use and decided to share the source code, so things could very well be broken and/or be done better.
+
+
+~~~~~~~~~~~~~
+This for is to attempt to add new things to the display page, such as, album info, play queue, control buttons etc. 
